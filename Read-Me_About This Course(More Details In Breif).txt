@@ -1,0 +1,58 @@
+ABOUT THE COURSE:
+Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps
+By the numbers
+Skill level: All Levels
+Students: 771307
+Languages: English
+Captions: Yes
+Lectures: 490
+Video: 65.5 total hours
+
+COURSE CONTENTS:
+Front-End Web Development
+HTML 5
+CSS 3
+Bootstrap 4
+Javascript ES6
+DOM Manipulation
+jQuery
+Bash Command Line
+Git, GitHub and Version Control
+Backend Web Development
+Node.js
+NPM
+Express.js
+EJS
+REST
+APIs
+Databases
+SQL
+MongoDB
+Mongoose
+Authentication
+Firebase
+React.js
+React Hooks
+Web Design
+Deployment with GitHub Pages, Heroku and MongoDB Atlas
+Web3 Development on the Internet Computer
+Blockchain technology
+Token contract development
+NFT minting, buying and selling logic
+
+
+WHAT YOU'LL LEARN:
+You will build 16 web development projects for your portfolio, ready to apply for junior developer jobs.
+You will learn the latest technologies, including Javascript, React, Node and even Web3 development.
+You will master both front and back-end development, becoming a full-stack developer by the end of the course.
+After the course you will be able to build ANY website you want.
+Build fully-fledged websites and web apps for your startup or business.
+Work as a freelance web developer.
+Master frontend development with React
+Master backend development with Node
+Learn professional developer best practices.
+
+AUTHOR:
+Dr. Angela Yu
+Developer and Lead Instructor
+Founder & CEO. Of The-App-Brewery
